@@ -2,7 +2,7 @@
   "name": "matheuscaetano/helprs",
   "autoload": {
     "psr-4": {
-      "MatheusCaetano\\": "/"
+      "MatheusCaetano\\": "src/"
     }
   },
   "extra": {
