@@ -1,0 +1,15 @@
+{
+  "name": "matheuscaetano/helprs",
+  "autoload": {
+    "psr-4": {
+      "MatheusCaetano\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Matheus Caetano",
+      "email": "devmatheuscaetano@gmail.com"
+    }
+  ],
+  "require": {}
+}
