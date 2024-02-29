@@ -2,6 +2,8 @@
 
 namespace MatheusCaetano; 
 
+require_once 'vendor/autoload.php';
+
 use DateTime;
 
 class Helprs
