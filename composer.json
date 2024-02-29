@@ -11,5 +11,6 @@
       "email": "devmatheuscaetano@gmail.com"
     }
   ],
+  "minimum-stability": "dev",
   "require": {}
 }
