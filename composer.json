@@ -5,6 +5,13 @@
       "MatheusCaetano\\": "/"
     }
   },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "MatheusCaetano"
+      ]
+    }
+  },
   "authors": [
     {
       "name": "Matheus Caetano",
