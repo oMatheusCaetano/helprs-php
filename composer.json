@@ -5,13 +5,6 @@
       "MatheusCaetano\\": "src/"
     }
   },
-  "extra": {
-    "laravel": {
-      "providers": [
-        "MatheusCaetano\\Helprs"
-      ]
-    }
-  },
   "authors": [
     {
       "name": "Matheus Caetano",
