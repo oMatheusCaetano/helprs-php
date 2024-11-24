@@ -3,7 +3,7 @@
         'name' => 'matheuscaetano/helprs',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '257647746a4bc9503c0bd6c8f707b234afd3f074',
+        'reference' => '54c511acd651ae75586b6304ac11ddd957a7ca14',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'matheuscaetano/helprs' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '257647746a4bc9503c0bd6c8f707b234afd3f074',
+            'reference' => '54c511acd651ae75586b6304ac11ddd957a7ca14',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
