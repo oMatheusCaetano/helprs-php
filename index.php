@@ -9,6 +9,10 @@ use DateTime;
 class Helprs
 {
     /**
+     * Format CPF and CNPJ
+     * 
+     * Formata um texto em CPF ou CNPJ
+     * 
      * @param string $date
      * @return string
      */
