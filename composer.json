@@ -1,6 +1,6 @@
 {
   "name": "matheuscaetano/helprs",
-  "version": "1.4.0",
+  "description": "A package with helpers function to make life easier",
   "autoload": {
     "psr-4": {
       "MatheusCaetano\\": "/"
